@@ -1,0 +1,20 @@
+{
+    "nombre" : "Beto Jr",
+    "apellidos" : "Quiroga ",
+    "edad" : 28,
+    "cursos" : [
+        {
+            "id" : 10,
+            "nombre" : "JavaScript"
+        },
+        {
+            "id" : 8,
+            "nombre" : "CSS"
+        },
+        {
+            "id" : 5,
+            "nombre" : "HTML"
+        }
+
+    ]
+}
